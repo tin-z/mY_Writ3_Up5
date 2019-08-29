@@ -1,2 +1,2 @@
 # mY_Writ3_Up5
-Collection of CTF writeups done by me
+CTF & security related write-ups done by me
