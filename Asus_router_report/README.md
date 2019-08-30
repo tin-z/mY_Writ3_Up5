@@ -102,17 +102,17 @@ So this is the execution flow:
 
 
 ### Other Routers that are affected by the same Logic Bug
-  RT-AX88U [Confirmed]
-  RT-AC87 [Not Confirmed]
-  ROG Rapture GT-AX11000 [Confirmed]
-  RT-AC86U [Confirmed]
-  RT-AC66U B1 [Not Confirmed]
-  ROG Rapture GT-AC5300 [Confirmed]
-  .. other Asus router that uses the same logic in httpd
+- RT-AX88U [Confirmed]
+- RT-AC87 [Not Confirmed]
+- ROG Rapture GT-AX11000 [Confirmed]
+- RT-AC86U [Confirmed]
+- RT-AC66U B1 [Not Confirmed]
+- ROG Rapture GT-AC5300 [Confirmed]
+- .. other Asus router that uses the same logic in httpd
 
 
 ## Timeline
 - Aug  3 2019: The vulnerability is reported to Asus security advisory
 - Aug  21 2019: Patch released also for RT-AC86U (v.3.0.0.4.384.81039), no CVE, my name added to contribution list ![photo1.jpg](photo1.jpg)
-- Aug  29 2019: Patch for RT-AC86U removed from the Asus website 
+- Aug  29 2019: Patch for RT-AC86U removed from the Asus website, because of many issue with the AiMesh, etc. [More info here](https://www.snbforums.com/threads/asus-rt-ac86u-firmware-version-3-0-0-4-384-81039.58178/)
 - ???
