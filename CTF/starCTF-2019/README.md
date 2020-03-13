@@ -22,7 +22,7 @@ The vulnerability arises in the 'Call that girl' function,in fact there's a simp
     free(*array_of_girl[index_girl]);   // uaf and leak
   v0 = time(0LL);
   srand(v0);
-  esito = rand() % 10;   //  1/10 ..damn you probability
+  esito = rand() % 10;   //  2/10 ..damn you probability
   if ( esito > 1 )
     puts("Oh, you have been refused.");
   else   
