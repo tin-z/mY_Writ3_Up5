@@ -23,7 +23,7 @@
 
 
 ### babyrust
-  * [babyrust](./babyrust)
+  * [babyrust](./babyrust.py)
 
 
 
