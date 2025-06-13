@@ -51,3 +51,7 @@ One possible solution is to spawn the app and then create another app to brute-f
 4. build the apk: `./gradlew assembleDebug --stacktrace --info`
 
 
+![../imgs/4.jpg](../imgs/4.jpg)
+
+![../imgs/5.jpg](../imgs/5.jpg)
+
